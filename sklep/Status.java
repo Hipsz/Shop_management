@@ -1,0 +1,6 @@
+package sklep;
+
+public enum Status {
+	PRZYJETE, ROZPOCZETE, REALIZOWANE, ANULOWANE, ZAKOCZONE, ZAWIESZONE;
+
+}
